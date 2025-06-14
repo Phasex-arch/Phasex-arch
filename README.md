@@ -23,8 +23,6 @@ Somos um coletivo universitário focado em desenvolver soluções digitais, auto
 | Projeto       | Descrição                                                                 |
 |--------------|---------------------------------------------------------------------------|
 | 🧙 Plataforma de RPG | Sistema online com ficha interativa, salas de jogo e integração em tempo real |
-| 🤖 LumePath       | Ferramenta de medição com Lidar e visão computacional para aplicações laboratoriais |
-| 🎮 White Rabies    | Jogo em Unity com narrativa psicológica e regras bizarras para sobrevivência     |
 
 ---
 
