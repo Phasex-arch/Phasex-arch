@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Phasex-arch/blob/main/phasex_banner_smooth_loop.gif" width="800" alt="PhaseX Logo"/>
+  <img src="https://github.com/Phasex-arch/Phasex-arch/blob/main/phasex_banner_smooth_loop.gif" width="800" alt="PhaseX Logo"/>
 </p>
 
 <h1 align="center">
